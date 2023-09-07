@@ -6,7 +6,7 @@
 </div>
 
 ## Sobre mim
-- Aprendendo sobre o mundo da tecnologia e aprimorando minhas habilidades
+- 🔭 Aprendendo sobre o mundo da tecnologia e aprimorando minhas habilidades
 - 🌱 Atualmente estou aprendendo:
   - C 
   - Estrutura de dados
